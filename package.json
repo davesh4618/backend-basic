@@ -1,0 +1,14 @@
+{
+  "name": "backend-backchodi",
+  "version": "1.0.0",
+  "description": "basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "davesh singh rathor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
