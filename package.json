@@ -4,11 +4,12 @@
   "description": "basic app to deploy",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "heloo": "node index.js"
   },
   "author": "davesh singh rathor",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^17.4.2",
     "express": "^5.2.1"
   }
 }
